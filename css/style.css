@@ -9,7 +9,7 @@ h1{
     font-weight: 500;
     /* Alternative Animation 
     ----------------------------------------------------------------*/
-    /* animation: flip-vertical-left 1s linear;
+    animation: flip-vertical-left 1s linear;
 }
 @keyframes flip-vertical-left {
     0% {
@@ -17,7 +17,7 @@ h1{
     }
     100% {
         transform: rotatex(-360deg);
-    } */
+    }
 }
     
 header{
